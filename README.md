@@ -7,10 +7,14 @@ When evaluating a hypothesis, we need to account for both the variability in you
 
 **What are the six steps of hypothesis testing?**
 
-**Step 1:** Specify the Null Hypothesis. ...
-**Step 2:** Specify the Alternative Hypothesis. ...
-**Step 3:** Set the Significance Level (a) ...
-**Step 4:** Calculate the Test Statistic and Corresponding P-Value. ...
+**Step 1:** Specify the Null Hypothesis. 
+
+**Step 2:** Specify the Alternative Hypothesis.
+
+**Step 3:** Set the Significance Level 
+
+**Step 4:** Calculate the Test Statistic and Corresponding P-Value.
+
 **Step 5:** Drawing a Conclusion.
 
 
