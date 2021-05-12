@@ -33,8 +33,9 @@ This is where hypothesis tests are useful. A hypothesis test allows us quantify 
 For this series of posts, I’ll continue to use this graphical framework and add in the significance level, P value, and confidence interval to show how hypothesis tests work and what statistical significance really means.
 
 
-**Part Two:** Significance Levels (alpha) and P values
-**Part Three:** Confidence Intervals and Confidence Levels
+**Part Two:** Significance Levels (alpha) and P values  (https://blog.minitab.com/en/adventures-in-statistics-2/understanding-hypothesis-tests-significance-levels-alpha-and-p-values-in-statistics)
+
+**Part Three:** Confidence Intervals and Confidence Levels  (https://blog.minitab.com/en/adventures-in-statistics-2/understanding-hypothesis-tests-confidence-intervals-and-confidence-levels)
 
 
 **Important links :**
