@@ -52,4 +52,8 @@ https://www.nedarc.org/statisticalhelp/advancedstatisticaltopics/hypothesisTesti
 https://analyticsindiamag.com/10-most-popular-statistical-hypothesis-testing-methods-using-python/
 
 
+**A/B Test**
+https://www.optimizely.com/optimization-glossary/ab-testing/
+
+
 
