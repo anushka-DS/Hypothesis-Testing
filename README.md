@@ -55,5 +55,9 @@ https://analyticsindiamag.com/10-most-popular-statistical-hypothesis-testing-met
 **A/B Test**
 https://www.optimizely.com/optimization-glossary/ab-testing/
 
+**Chi-Square test**
+https://www.statisticshowto.com/probability-and-statistics/chi-square/
+
+**ANOVA**  https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/anova/
 
 
